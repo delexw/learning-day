@@ -1,1 +1,1 @@
-# learning-day
+# Learning Day
